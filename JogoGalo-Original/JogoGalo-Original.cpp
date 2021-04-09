@@ -1,5 +1,10 @@
 #define _CRT_NO_WARNINGS
- 
+
+/*
+   made by Rodrigo Russo
+   XD
+*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <ctype.h>
